@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/ISURU-BOT-V1">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+ISURU%20+%20OBOT+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+ISURU%20+%20+BOT+..."
             alt="Typing SVG"
         />
     </a>
